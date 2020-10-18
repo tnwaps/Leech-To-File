@@ -3,7 +3,7 @@
 A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ## installing
-
+[![Run on Repl.it](https://repl.it/badge/github/tnwaps/Leech-To-File)](https://repl.it/github/tnwaps/Leech-To-File)
 ### The Easy Way
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)

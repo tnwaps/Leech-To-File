@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/tnwaps/Leech-To-File)](https://repl.it/github/tnwaps/Leech-To-File)
+
 # Telegram --Torrent-- Leecher 🔥🤖
 
 A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
